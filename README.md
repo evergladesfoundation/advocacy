@@ -76,7 +76,13 @@ A separate command reads the public EnerGov attachments tab for the tracked CDMP
 PYTHONPATH=src .venv/bin/python -m cdmp_monitor scrape
 ```
 
-That prints the file name, upload date, and notes for CDMP20250017. Only that CDMP number is confirmed. The other six plan GUIDs are seeded with blank numbers and blank SharePoint folders.
+That prints the file name, upload date, and notes for CDMP20250017. The config lists seven plans. SharePoint folders are still blank.
+
+```bash
+PYTHONPATH=src python -m cdmp_monitor run --log-only
+```
+
+`run` checks every plan in the config. New files older than 7 days are stored and not alerted. Newer files are downloaded, summarized, and uploaded when mail and Graph secrets are set. `--log-only` prints the digest and does not email. See [docs/cdmp-onboarding.md](docs/cdmp-onboarding.md). The daily workflow is [`.github/workflows/cdmp-daily.yml`](.github/workflows/cdmp-daily.yml). It stays in log-only mode until that flag is removed.
 
 ## Tests
 

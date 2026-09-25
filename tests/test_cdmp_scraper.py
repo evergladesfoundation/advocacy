@@ -79,7 +79,15 @@ def test_seed_config_has_the_seven_plans_and_the_confirmed_number():
     confirmed = find_application(applications, cdmp_number="CDMP20250017")
     assert confirmed.plan_guid == "c9762e73-fa94-4c81-be60-9d14a52dbd8c"
     assert confirmed.sharepoint_folder_url == ""
-    assert sum(1 for item in applications if item.cdmp_number) == 1
+    assert {item.cdmp_number for item in applications} == {
+        "CDMP20210005",
+        "CDMP20250016",
+        "CDMP20250019",
+        "CDMP20250017",
+        "CDMP20230013",
+        "CDMP20230016",
+        "CDMP20230017",
+    }
 
 
 def test_unknown_cdmp_number_is_rejected():

@@ -1,44 +1,44 @@
 [
   {
-    "cdmpNumber": "",
+    "cdmpNumber": "CDMP20210005",
     "planGuid": "26f4d4b3-af36-48f2-9b6c-081e794a8a2b",
     "sharepointFolderUrl": "",
-    "notes": "CDMP number and SharePoint folder not confirmed yet."
+    "notes": "CDMP number read from the public plan page title on 2026-09-25. SharePoint folder still TBD."
   },
   {
-    "cdmpNumber": "",
+    "cdmpNumber": "CDMP20250016",
     "planGuid": "710ed51e-cf81-45ef-9efe-94b9b082da4e",
     "sharepointFolderUrl": "",
-    "notes": "CDMP number and SharePoint folder not confirmed yet."
+    "notes": "CDMP number read from the public plan page title on 2026-09-25. SharePoint folder still TBD."
   },
   {
-    "cdmpNumber": "",
+    "cdmpNumber": "CDMP20250019",
     "planGuid": "e1bf2f89-d1ba-423b-b3c8-103dcc976b76",
     "sharepointFolderUrl": "",
-    "notes": "CDMP number and SharePoint folder not confirmed yet."
+    "notes": "CDMP number read from the public plan page title on 2026-09-25. SharePoint folder still TBD."
   },
   {
     "cdmpNumber": "CDMP20250017",
     "planGuid": "c9762e73-fa94-4c81-be60-9d14a52dbd8c",
     "sharepointFolderUrl": "",
-    "notes": "Confirmed by CDMP number on 2026-09-25. SharePoint folder still TBD."
+    "notes": "CDMP number confirmed on the public plan page. SharePoint folder still TBD."
   },
   {
-    "cdmpNumber": "",
+    "cdmpNumber": "CDMP20230013",
     "planGuid": "85a528ca-fa52-4ba9-8a83-a24d51563e8e",
     "sharepointFolderUrl": "",
-    "notes": "CDMP number and SharePoint folder not confirmed yet."
+    "notes": "CDMP number read from the public plan page title on 2026-09-25. SharePoint folder still TBD."
   },
   {
-    "cdmpNumber": "",
+    "cdmpNumber": "CDMP20230016",
     "planGuid": "f1ba4410-d35c-4922-a6ae-f30045c5fb83",
     "sharepointFolderUrl": "",
-    "notes": "CDMP number and SharePoint folder not confirmed yet."
+    "notes": "CDMP number read from the public plan page title on 2026-09-25. SharePoint folder still TBD."
   },
   {
-    "cdmpNumber": "",
+    "cdmpNumber": "CDMP20230017",
     "planGuid": "1bbd236b-9f2a-4e8d-88c3-8415bc1973d2",
     "sharepointFolderUrl": "",
-    "notes": "CDMP number and SharePoint folder not confirmed yet."
+    "notes": "CDMP number read from the public plan page title on 2026-09-25. SharePoint folder still TBD."
   }
 ]
