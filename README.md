@@ -67,6 +67,17 @@ If `main` requires pull-request reviews, allow GitHub Actions to push that state
 | `GOVINFO_API_KEY` | GovInfo / api.data.gov key. Falls back to `DEMO_KEY` (rate-limited). |
 | `CONGRESS_API_KEY` | Used only if `GOVINFO_API_KEY` is unset. |
 
+## CDMP attachment check
+
+A separate command reads the public EnerGov attachments tab for the tracked CDMP applications in `data/cdmp/applications.json`. It uses a headless browser because the attachments list is rendered by the portal, not returned to a cold API call.
+
+```bash
+.venv/bin/playwright install chromium
+PYTHONPATH=src .venv/bin/python -m cdmp_monitor scrape
+```
+
+That prints the file name, upload date, and notes for CDMP20250017. Only that CDMP number is confirmed. The other six plan GUIDs are seeded with blank numbers and blank SharePoint folders.
+
 ## Tests
 
 ```bash
