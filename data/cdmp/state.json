@@ -1,3 +1,2322 @@
 {
-  "plans": {}
+  "plans": {
+    "1bbd236b-9f2a-4e8d-88c3-8415bc1973d2": [
+      {
+        "fileName": "DERM Memo CDMP20230017 REVISED January 2024.pdf",
+        "uploadedDate": "02/01/2024"
+      },
+      {
+        "fileName": "Appl Traffic Study CDMP20230017 Reced. Feb 5 2025.pdf",
+        "uploadedDate": "02/06/2025"
+      },
+      {
+        "fileName": "Appl Req Ext Time CDMP20230017 Appr. March 25 2026.pdf",
+        "uploadedDate": "03/25/2026"
+      },
+      {
+        "fileName": "Appl Req Ext Time CDMP20230017 Recd March 24 2026.pdf",
+        "uploadedDate": "03/25/2026"
+      },
+      {
+        "fileName": "Conceptual plan.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Trip Generation Memorandum 05 31 2023.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Application CDMP with Exhibits V2 6-9-23.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Declaration of Restrictions with exhibits June 7 (003) V2.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Disclosures CDMP Ferro - V2 6-9-23.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Economic CDMP Report 6-9-23.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "LEGAL DESCRIPTION 6-9-23.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Opinion of Title.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Ownership Interest disclosure.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Survey 05-15-2023.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Traffic Study for Portofino - 163.25 Acre Site 06 08 2023 (002).pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Appl Eco Report CDMP20230017 Recd June 17 2026.pdf",
+        "uploadedDate": "06/18/2026"
+      },
+      {
+        "fileName": "AERIAL MAP_MAY_2023_CYCLE_CDMP20230017.pdf",
+        "uploadedDate": "07/03/2023"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2023-0017.pdf",
+        "uploadedDate": "07/12/2023"
+      },
+      {
+        "fileName": "DSWM CDMP 2023-0017.pdf",
+        "uploadedDate": "07/14/2023"
+      },
+      {
+        "fileName": "Fire CDMP20230017.pdf",
+        "uploadedDate": "07/14/2023"
+      },
+      {
+        "fileName": "MDAD's Comments.pdf",
+        "uploadedDate": "07/14/2023"
+      },
+      {
+        "fileName": "WASD-CDMP20230017-JULY-14-2023.pdf",
+        "uploadedDate": "07/14/2023"
+      },
+      {
+        "fileName": "DERM Memo CDMP20230017.pdf",
+        "uploadedDate": "07/20/2023"
+      },
+      {
+        "fileName": "Traffic Study CDMP20230017 0706026 recd 072326.pdf",
+        "uploadedDate": "07/24/2026"
+      },
+      {
+        "fileName": "Parks CDMP20230017_20230718 - signed.pdf",
+        "uploadedDate": "07/26/2023"
+      },
+      {
+        "fileName": "Police Memo - CDMP20230017 pdf.pdf",
+        "uploadedDate": "08/23/2023"
+      },
+      {
+        "fileName": "Transit Review CDMP202300017.pdf",
+        "uploadedDate": "08/24/2023"
+      },
+      {
+        "fileName": "Appl. Ltr Req for 60-Day Extension Aug 30 2023.pdf",
+        "uploadedDate": "08/30/2023"
+      },
+      {
+        "fileName": "Appl. Ltr Req for 60-Day Extension Oct 3 2023.pdf",
+        "uploadedDate": "10/04/2023"
+      },
+      {
+        "fileName": "Appl. Ltr Req for Ext CDMP20230017 June 26 2024.pdf",
+        "uploadedDate": "10/23/2024"
+      },
+      {
+        "fileName": "Appl. Wildlife Survey recd. Dec 12 2023.pdf",
+        "uploadedDate": "12/15/2023"
+      }
+    ],
+    "26f4d4b3-af36-48f2-9b6c-081e794a8a2b": [
+      {
+        "fileName": "Police Memo - CDMP20210005 (White Copy) - Hammocks pdf.pdf",
+        "uploadedDate": "01/06/2026"
+      },
+      {
+        "fileName": "Transit Review CDMP202100005_December 2025.pdf",
+        "uploadedDate": "01/06/2026"
+      },
+      {
+        "fileName": "Parks CDMP20210005_V5 Review_20260112 - signed.pdf",
+        "uploadedDate": "01/23/2026"
+      },
+      {
+        "fileName": "OHP Review May 2021 CDMP20210005-Jan2023.pdf",
+        "uploadedDate": "01/26/2023"
+      },
+      {
+        "fileName": "Parks CDMP20210005_V4 Review_20250124 - signed.pdf",
+        "uploadedDate": "01/27/2025"
+      },
+      {
+        "fileName": "9-13-2022_CDMP 20210005 (Limonar Developmet) - DTPW TED review comments.pdf",
+        "uploadedDate": "02/03/2025"
+      },
+      {
+        "fileName": "OHP Review May 2021 CDMP20210005 Feb 2022.pdf",
+        "uploadedDate": "02/09/2022"
+      },
+      {
+        "fileName": "Resilience CDMP20210005 12-3-21.pdf",
+        "uploadedDate": "02/24/2023"
+      },
+      {
+        "fileName": "Resilience CDMP20210005 8-3-21.pdf",
+        "uploadedDate": "02/24/2023"
+      },
+      {
+        "fileName": "Environmental memo CDMP20210005 - Revised 03-02-2026.pdf",
+        "uploadedDate": "03/16/2026"
+      },
+      {
+        "fileName": "Applicants Req for Deferral 21-05 Recd. 03-15-23.pdf",
+        "uploadedDate": "03/17/2023"
+      },
+      {
+        "fileName": "OHP Review May 2021 CDMP20210005-March 2025.pdf",
+        "uploadedDate": "03/21/2025"
+      },
+      {
+        "fileName": "Applicant's Submittal Re: DERM comments - Development Site 3-18-22.pdf",
+        "uploadedDate": "03/24/2022"
+      },
+      {
+        "fileName": "Applicant's Submittal Stormwater Master Plan.pdf",
+        "uploadedDate": "03/24/2022"
+      },
+      {
+        "fileName": "Applicants Req for Deferral 21-05 Recd. 3-28-22.pdf",
+        "uploadedDate": "03/28/2022"
+      },
+      {
+        "fileName": "March 30 2022 RER Approval of 60-Day Extension.pdf",
+        "uploadedDate": "03/31/2022"
+      },
+      {
+        "fileName": "Conceptual Plans.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Final Green City Cover letter May 31 with exhibits.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Green City CDMP Application V6 5.31.23.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Green City Declaration of Restrictions 5.31.23.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Green City Economic Impact Analysis 5.29.23.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Green City Hydrologic Report - Applicant's Submittal Re_ DERM comments.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Green City Site Wetland Resources Determination 5.2.23.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Green City Stormwater Master Plan Tech. Memo and Report (05.31.2023).pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Green City Traffic Study.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Opinion of Title 5.31.23.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Survey v3.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Notification to Property Owner and Certified Mail Receipt, dtd 6.3.2021.pdf",
+        "uploadedDate": "06/04/2021"
+      },
+      {
+        "fileName": "Exhibit B Legal Description V2.pdf",
+        "uploadedDate": "06/08/2021"
+      },
+      {
+        "fileName": "Exhibit A and A1-Location Maps V4.pdf",
+        "uploadedDate": "06/11/2021"
+      },
+      {
+        "fileName": "Disclosure of Interest V5.pdf",
+        "uploadedDate": "06/17/2021"
+      },
+      {
+        "fileName": "Green City CDMP Application V5.pdf",
+        "uploadedDate": "06/17/2021"
+      },
+      {
+        "fileName": "Declaration of Restrictions.pdf",
+        "uploadedDate": "07/01/2021"
+      },
+      {
+        "fileName": "Economic Impact Analysis.pdf",
+        "uploadedDate": "07/01/2021"
+      },
+      {
+        "fileName": "Opinion of Title.pdf",
+        "uploadedDate": "07/01/2021"
+      },
+      {
+        "fileName": "Application to Amend the UDB and CDMP (Northern)(19049115.1).pdf",
+        "uploadedDate": "07/12/2023"
+      },
+      {
+        "fileName": "Limonar - Declaration of Restrictions(19047405.1).pdf",
+        "uploadedDate": "07/12/2023"
+      },
+      {
+        "fileName": "Amend Review 20210005 final.pdf",
+        "uploadedDate": "07/16/2021"
+      },
+      {
+        "fileName": "Declaration of Restrictions V2.pdf",
+        "uploadedDate": "07/16/2021"
+      },
+      {
+        "fileName": "Economic Impact Analysis V2.pdf",
+        "uploadedDate": "07/16/2021"
+      },
+      {
+        "fileName": "Opinion of Title V2.pdf",
+        "uploadedDate": "07/16/2021"
+      },
+      {
+        "fileName": "Green City Miami Trip gen comparison letter.pdf",
+        "uploadedDate": "07/18/2023"
+      },
+      {
+        "fileName": "WASD-CDMP20210005-JULY-25-2023.pdf",
+        "uploadedDate": "07/25/2023"
+      },
+      {
+        "fileName": "CDMP20210005 mdfr.pdf",
+        "uploadedDate": "07/27/2023"
+      },
+      {
+        "fileName": "Applicants Req for Deferral 21-05 Recd. 6-24-22.pdf",
+        "uploadedDate": "07/29/2022"
+      },
+      {
+        "fileName": "CDMP 20210005 (Limonar Developmet) - DTPW TED review comments.pdf",
+        "uploadedDate": "07/30/2021"
+      },
+      {
+        "fileName": "WASD CDMP20210005 7-28-21.pdf",
+        "uploadedDate": "07/30/2021"
+      },
+      {
+        "fileName": "DERM Memo July 2023 CDMP20210005.pdf",
+        "uploadedDate": "08/01/2023"
+      },
+      {
+        "fileName": "Transit Review CDMP202100005_July 2023.pdf",
+        "uploadedDate": "08/01/2023"
+      },
+      {
+        "fileName": "OHP Review May 2021 CDMP20210005.docx",
+        "uploadedDate": "08/02/2021"
+      },
+      {
+        "fileName": "Parks CDMP20210005_20210802 - signed.pdf",
+        "uploadedDate": "08/02/2021"
+      },
+      {
+        "fileName": "MDAD's Memo.pdf",
+        "uploadedDate": "08/04/2021"
+      },
+      {
+        "fileName": "Parks CDMP20210005_20230731 - signed.pdf",
+        "uploadedDate": "08/07/2023"
+      },
+      {
+        "fileName": "Police Memo - CDMP20210005 pdf - No Change Memo.pdf",
+        "uploadedDate": "08/08/2023"
+      },
+      {
+        "fileName": "Transit Review CDMP202100005_FAAsigned.pdf",
+        "uploadedDate": "08/19/2021"
+      },
+      {
+        "fileName": "MDPD CDMP202010005.pdf",
+        "uploadedDate": "08/20/2021"
+      },
+      {
+        "fileName": "CDMP20210005 MDFR C.pdf",
+        "uploadedDate": "08/21/2023"
+      },
+      {
+        "fileName": "CDMP Amend 2021-0005 Review (1st revision) - signed.pdf",
+        "uploadedDate": "08/22/2022"
+      },
+      {
+        "fileName": "UPDATED-WASD_CDMP20210005-AUGUST_27_2026.pdf",
+        "uploadedDate": "08/27/2026"
+      },
+      {
+        "fileName": "WASD CDMP20210005 9-9-2022 revised.pdf",
+        "uploadedDate": "09/09/2022"
+      },
+      {
+        "fileName": "OHP Review May 2021 CDMP20210005-Sept2022.pdf",
+        "uploadedDate": "09/12/2022"
+      },
+      {
+        "fileName": "9-13-2022_CDMP 20210005 (Limonar Developmet) - DTPW TED review comments.pdf",
+        "uploadedDate": "09/13/2022"
+      },
+      {
+        "fileName": "Police Memo CDMP20210005.pdf",
+        "uploadedDate": "09/16/2022"
+      },
+      {
+        "fileName": "Parks CDMP20210005_20220920 - signed.pdf",
+        "uploadedDate": "09/21/2022"
+      },
+      {
+        "fileName": "OHP Review May 2021 CDMP20210005 Covenant.docx",
+        "uploadedDate": "09/24/2021"
+      },
+      {
+        "fileName": "WASD CDMP2021005 9-23-21.pdf",
+        "uploadedDate": "09/24/2021"
+      },
+      {
+        "fileName": "DERM memo September 2022 CDMP20210005.pdf",
+        "uploadedDate": "09/30/2022"
+      },
+      {
+        "fileName": "250129-49649_FormalWetlandDet_20250326.pdf",
+        "uploadedDate": "09/30/2025"
+      },
+      {
+        "fileName": "Application to Amend the UDB and CDMP (Northern).pdf",
+        "uploadedDate": "09/30/2025"
+      },
+      {
+        "fileName": "BOUNDARY SURVEY WETLANDS AREAS_02-03-2025 ESS.pdf",
+        "uploadedDate": "09/30/2025"
+      },
+      {
+        "fileName": "Green City Cover Letter September 2025 Submittal(38536223.1) (002).pdf",
+        "uploadedDate": "09/30/2025"
+      },
+      {
+        "fileName": "DERM Review Memo CDMP20210005.pdf",
+        "uploadedDate": "10/01/2021"
+      },
+      {
+        "fileName": "App V7 Application Oct 15 2024.pdf",
+        "uploadedDate": "10/15/2024"
+      },
+      {
+        "fileName": "Appl Ltr Rev CDMP20210005 Recd. Oct 15 2024.pdf",
+        "uploadedDate": "10/15/2024"
+      },
+      {
+        "fileName": "Applicant Req for Deferral 21-05 Recd. August 16 2024.pdf",
+        "uploadedDate": "10/15/2024"
+      },
+      {
+        "fileName": "Covenant CDMP20210005 Recd. Oct 15 2024.pdf",
+        "uploadedDate": "10/15/2024"
+      },
+      {
+        "fileName": "GMAwater Tech Memo Recd Oct 15 2024.pdf",
+        "uploadedDate": "10/15/2024"
+      },
+      {
+        "fileName": "Green City Site Assessment_09.05.24.pdf",
+        "uploadedDate": "10/15/2024"
+      },
+      {
+        "fileName": "O of T CDMP20210005 Recd. Oct 15 2024.pdf",
+        "uploadedDate": "10/15/2024"
+      },
+      {
+        "fileName": "Traffic Study CDMP20210005 Recd. Oct 15 2024.pdf",
+        "uploadedDate": "10/15/2024"
+      },
+      {
+        "fileName": "CDMP20210005 MDFR October 24.pdf",
+        "uploadedDate": "10/24/2023"
+      },
+      {
+        "fileName": "Applicants Req for Deferral 21-05 Recd. 10-24-23.pdf",
+        "uploadedDate": "10/25/2023"
+      },
+      {
+        "fileName": "MDFR CDMP 20210005 11-14-22.pdf",
+        "uploadedDate": "11/14/2022"
+      },
+      {
+        "fileName": "DSWM Updates Review CDMP2021-0005.pdf",
+        "uploadedDate": "11/17/2024"
+      },
+      {
+        "fileName": "Police Memo - CDMP20210005 - pdf Resubmitted BCC Rule.pdf",
+        "uploadedDate": "11/18/2024"
+      },
+      {
+        "fileName": "App Dis of Int CDMP20210005 Recd Nov 18 2025.pdf",
+        "uploadedDate": "11/18/2025"
+      },
+      {
+        "fileName": "Appl Cov Ltr CDMP20210005 Recd Nov 18 2025.pdf",
+        "uploadedDate": "11/18/2025"
+      },
+      {
+        "fileName": "Appl Eco Rep CDMP20210005 Recd Nov 18 2025.pdf",
+        "uploadedDate": "11/18/2025"
+      },
+      {
+        "fileName": "Appl Wet Res Det CDMP20210005 Recd Nov 18 2025.pdf",
+        "uploadedDate": "11/18/2025"
+      },
+      {
+        "fileName": "Appl. Tech Water Memo CDMP20210005 Recd Nov 18 2025.pdf",
+        "uploadedDate": "11/18/2025"
+      },
+      {
+        "fileName": "CDMP App V8 CDMP20210005 Recd Nov 18 2025.pdf",
+        "uploadedDate": "11/18/2025"
+      },
+      {
+        "fileName": "Covenant CDMP20210005 Recd Nov 18 2025.pdf",
+        "uploadedDate": "11/18/2025"
+      },
+      {
+        "fileName": "Traffic Study CDMP20210005 Recd Nov 18 2025.pdf",
+        "uploadedDate": "11/18/2025"
+      },
+      {
+        "fileName": "WASD CDMP20210005 NOV-26-2024.pdf",
+        "uploadedDate": "11/26/2024"
+      },
+      {
+        "fileName": "DERM memo CDMP20210005 12-13-2024.pdf",
+        "uploadedDate": "12/13/2024"
+      },
+      {
+        "fileName": "Applicants Ltr re Deferral of CDMP20210005 12-15-2021.pdf",
+        "uploadedDate": "12/16/2021"
+      },
+      {
+        "fileName": "DSWM Review V4. - Limonar Development, LLC and Wonderly Holdings, LLC CDMP 2021-00005 - FINAL.pdf",
+        "uploadedDate": "12/17/2025"
+      },
+      {
+        "fileName": "WASD CDMP20210005 December 17 2025.pdf",
+        "uploadedDate": "12/17/2025"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2021-00005_LimonarDevelop.pdf",
+        "uploadedDate": "12/22/2025"
+      },
+      {
+        "fileName": "Transit Review CDMP202100005_November_2024.pdf",
+        "uploadedDate": "12/23/2024"
+      },
+      {
+        "fileName": "CDMP20210005 MDFR.pdf",
+        "uploadedDate": "12/23/2025"
+      },
+      {
+        "fileName": "OHP Review May 2021 CDMP20210005-Dec 2025.pdf",
+        "uploadedDate": "12/24/2025"
+      },
+      {
+        "fileName": "12-26-2025_CDMP 20210005 (Limonar Developmet) - DTPW TED Review Comments.pdf",
+        "uploadedDate": "12/26/2025"
+      }
+    ],
+    "710ed51e-cf81-45ef-9efe-94b9b082da4e": [
+      {
+        "fileName": "Application (February 2026).pdf",
+        "uploadedDate": "02/19/2026"
+      },
+      {
+        "fileName": "Conceptual Development & Master Stormwater (February 2026).pdf",
+        "uploadedDate": "02/19/2026"
+      },
+      {
+        "fileName": "Declaration of Restrictions (February 2026).pdf",
+        "uploadedDate": "02/19/2026"
+      },
+      {
+        "fileName": "Florida Bonneted Bat - Roost and Emergence Survey (January 2026).pdf",
+        "uploadedDate": "02/19/2026"
+      },
+      {
+        "fileName": "Response Narrative Report (February 2026).pdf",
+        "uploadedDate": "02/19/2026"
+      },
+      {
+        "fileName": "The Sanbar Corporation - Extesnion Request Letter (February 2026).pdf",
+        "uploadedDate": "02/19/2026"
+      },
+      {
+        "fileName": "Traffic Impact Study (January 2026).pdf",
+        "uploadedDate": "02/19/2026"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2025-0016_updated.pdf",
+        "uploadedDate": "03/12/2026"
+      },
+      {
+        "fileName": "Transit Review CDMP20250016_March 2026.pdf",
+        "uploadedDate": "03/19/2026"
+      },
+      {
+        "fileName": "CDMP Update - The Sanbar Corporation CDMP2025-0016 - FINAL.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "CDMP20250016 MDFR3.docx.pdf",
+        "uploadedDate": "03/23/2026"
+      },
+      {
+        "fileName": "Police Memo - CDMP20250016 (White Copy) - (Hammocks) BCC 4 pdf.pdf",
+        "uploadedDate": "03/23/2026"
+      },
+      {
+        "fileName": "WASD CDMP20250016 MARCH-23-2026.pdf",
+        "uploadedDate": "03/23/2026"
+      },
+      {
+        "fileName": "3-27-2026_CDMP20250016 -_DTPW Traffic Engineering Memo.pdf",
+        "uploadedDate": "03/27/2026"
+      },
+      {
+        "fileName": "Department of Emergency Management - CDMP20250016 Sanbar Corp_.pdf",
+        "uploadedDate": "04/10/2026"
+      },
+      {
+        "fileName": "REV-EM_MGT-2.pdf",
+        "uploadedDate": "04/13/2026"
+      },
+      {
+        "fileName": "REV-AG-1.pdf",
+        "uploadedDate": "04/22/2026"
+      },
+      {
+        "fileName": "WASD CDMP20250016 April 22 2026.pdf",
+        "uploadedDate": "04/22/2026"
+      },
+      {
+        "fileName": "Environmental Memo CDMP20250016 - 4-22-2026.pdf",
+        "uploadedDate": "04/24/2026"
+      },
+      {
+        "fileName": "Parks V2_CDMP20250016_20260428 - signed.pdf",
+        "uploadedDate": "04/29/2026"
+      },
+      {
+        "fileName": "Environmental Review CDMP20250016 - 5-26-2026.pdf",
+        "uploadedDate": "05/26/2026"
+      },
+      {
+        "fileName": "Application.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Conceptual Development & Master Stormwater Management Report (May 2025).pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Disclosure of Interest.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Legal Description.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Level III Traffic Study Methodology (May 2025).pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Natural Resource Assessment Report (May 2025).pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Survey.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Traffic Impact Study (May 2025).pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Roadways Report CDMP20250016.docx",
+        "uploadedDate": "06/22/2026"
+      },
+      {
+        "fileName": "Application (June 23 2025).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "CDMP - Declaration of Restrictions - Sanbar Corp (June 23 2025 DRAFT).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "CDMP - Joinder of Mortgagee - Sanbar Corp (June 23 2025 DRAFT).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "Conceptual Development & Master Stormwater Management Report (June 2025).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "Disclosure of Interest (June 23 2025).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "Location Map (June 23 2025).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "Natural Resource Assessment Report (June 2025).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "Opinion of Title (June 2025).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "Survey (June 23 2025).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "Traffic Impact Study (June 2025).pdf",
+        "uploadedDate": "06/23/2025"
+      },
+      {
+        "fileName": "The Sanbar Corporation - Extension Request Letter (6.24.26).pdf",
+        "uploadedDate": "06/24/2026"
+      },
+      {
+        "fileName": "CDMP - Declaration of Restrictions - Sanbar Corp (June 30 2025 DRAFT).pdf",
+        "uploadedDate": "06/30/2025"
+      },
+      {
+        "fileName": "DSWM Review of CDMP (May Cycle) - CDMP2025-0016 - FINAL.pdf",
+        "uploadedDate": "08/06/2025"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2024-0016.pdf",
+        "uploadedDate": "08/06/2025"
+      },
+      {
+        "fileName": "WASD CDMP20250016 8-12-2025.pdf",
+        "uploadedDate": "08/12/2025"
+      },
+      {
+        "fileName": "CDMP20250016 MDFR.pdf",
+        "uploadedDate": "08/14/2025"
+      },
+      {
+        "fileName": "Demonstration of Need Report.pdf",
+        "uploadedDate": "08/14/2025"
+      },
+      {
+        "fileName": "Traffic Impact Study (August 2025).pdf",
+        "uploadedDate": "08/15/2025"
+      },
+      {
+        "fileName": "Schools (PH3025062700449).pdf",
+        "uploadedDate": "08/19/2025"
+      },
+      {
+        "fileName": "Transit Review CDMP20250016.pdf",
+        "uploadedDate": "08/19/2025"
+      },
+      {
+        "fileName": "Police Memo - CDMP20250016 (White Copy) - Hammocks pdf.pdf",
+        "uploadedDate": "08/27/2025"
+      },
+      {
+        "fileName": "DERM Review Memo CDMP20250016 - The Sanbar Corporation .pdf",
+        "uploadedDate": "08/28/2025"
+      },
+      {
+        "fileName": "Parks_CDMP20250016_20250903 - signed.pdf",
+        "uploadedDate": "09/03/2025"
+      },
+      {
+        "fileName": "Application (September 2026).pdf",
+        "uploadedDate": "09/11/2026"
+      },
+      {
+        "fileName": "Conceptual Development & Master Stormwater (June 2026).pdf",
+        "uploadedDate": "09/11/2026"
+      },
+      {
+        "fileName": "Declaration of Restrictions (September 2026).pdf",
+        "uploadedDate": "09/11/2026"
+      },
+      {
+        "fileName": "Response Narrative Report (September 2026).pdf",
+        "uploadedDate": "09/11/2026"
+      },
+      {
+        "fileName": "Traffic Impact Study (June 2026).pdf",
+        "uploadedDate": "09/11/2026"
+      },
+      {
+        "fileName": "The Sanbar Corporation - Extension Request Letter (CDMP20250016).pdf",
+        "uploadedDate": "09/18/2025"
+      }
+    ],
+    "85a528ca-fa52-4ba9-8a83-a24d51563e8e": [
+      {
+        "fileName": "WASD CDMP20230013 January-80-2025.pdf",
+        "uploadedDate": "01/08/2025"
+      },
+      {
+        "fileName": "BCC Ad in Jan 12 2026 M Herald.pdf",
+        "uploadedDate": "01/12/2026"
+      },
+      {
+        "fileName": "Final Recommendation Report CDMP20230013 1-14-26.pdf",
+        "uploadedDate": "01/14/2026"
+      },
+      {
+        "fileName": "BCC Agenda 1-22-26 with links v4.pdf.pdf",
+        "uploadedDate": "01/20/2026"
+      },
+      {
+        "fileName": "Kelly Tractor-Transmittal Letter - 01.16.2026..pdf",
+        "uploadedDate": "01/20/2026"
+      },
+      {
+        "fileName": "CDMP25-03 Opinion of Title-Kelly Tractor.pdf",
+        "uploadedDate": "01/21/2026"
+      },
+      {
+        "fileName": "CDMP20230013- Kelly Tractor- Final Executed Opinion of Title.pdf",
+        "uploadedDate": "02/03/2026"
+      },
+      {
+        "fileName": "CDMP20230013-Final Executed Covenant.pdf",
+        "uploadedDate": "02/03/2026"
+      },
+      {
+        "fileName": "Exhibit 1c Veto and Veto Message - Ordinance No. 26-4.pdf",
+        "uploadedDate": "02/04/2026"
+      },
+      {
+        "fileName": "Exhibit 6 7A Kelly Tractor Summary Revised.pdf",
+        "uploadedDate": "02/05/2026"
+      },
+      {
+        "fileName": "State Package - CDMP20230013 - Kelly Tractor.pdf",
+        "uploadedDate": "02/05/2026"
+      },
+      {
+        "fileName": "Kelly Tractor State Ext Request Feb 26.pdf",
+        "uploadedDate": "02/18/2026"
+      },
+      {
+        "fileName": "Conceptual SWM Master Plan_3.9.2026.pdf",
+        "uploadedDate": "03/09/2026"
+      },
+      {
+        "fileName": "Kelly Tractor Co Declaration of Restrictions 3.9.2026.pdf",
+        "uploadedDate": "03/09/2026"
+      },
+      {
+        "fileName": "Kelly Tractor Co. _ Letter of Intent for Revised Text Amendment Language.pdf",
+        "uploadedDate": "03/09/2026"
+      },
+      {
+        "fileName": "Kelly Tractor Conceptual Site Plan 3.9.2026.pdf",
+        "uploadedDate": "03/09/2026"
+      },
+      {
+        "fileName": "Kelly Tractor _ CDMP20230013 _ Deferral Req 3-7-2025.pdf",
+        "uploadedDate": "03/10/2025"
+      },
+      {
+        "fileName": "BCC Ad 3-19-2026 M. Hearld.pdf",
+        "uploadedDate": "03/10/2026"
+      },
+      {
+        "fileName": "Kelly Tractor Campus Expansion Business Plan_FDP031026.pdf",
+        "uploadedDate": "03/10/2026"
+      },
+      {
+        "fileName": "2023-25.03 - DERM memo follow up letter-3.7.25.pdf",
+        "uploadedDate": "03/11/2025"
+      },
+      {
+        "fileName": "Conceptual SWM Master Plan_REV 4.pdf",
+        "uploadedDate": "03/11/2025"
+      },
+      {
+        "fileName": "Kelly Tractor Campus Expansion Business Plan Revised 032026.pdf",
+        "uploadedDate": "03/23/2026"
+      },
+      {
+        "fileName": "GMX letter regarding 836 extension - 04-09-26.pdf",
+        "uploadedDate": "04/09/2026"
+      },
+      {
+        "fileName": "BCC 4-23-26 esheet.pdf",
+        "uploadedDate": "04/13/2026"
+      },
+      {
+        "fileName": "KellyTractor_Letter GMX Response.04.20.26.pdf",
+        "uploadedDate": "04/20/2026"
+      },
+      {
+        "fileName": "KellyTractor_Letter.04.20.26.pdf",
+        "uploadedDate": "04/20/2026"
+      },
+      {
+        "fileName": "Miami-Dade County 25-03ESR Ext Not Ack Letter.pdf",
+        "uploadedDate": "04/20/2026"
+      },
+      {
+        "fileName": "BCC Agenda 4-23-26 with links.pdf",
+        "uploadedDate": "04/21/2026"
+      },
+      {
+        "fileName": "DERM Memo CDMP20230013 - 4-21-25.pdf",
+        "uploadedDate": "04/22/2025"
+      },
+      {
+        "fileName": "260753 report and additional items 4-22-26.pdf",
+        "uploadedDate": "04/22/2026"
+      },
+      {
+        "fileName": "Kelly Tractor Co Declaration of Restrictions Final(513870986.17).pdf",
+        "uploadedDate": "04/22/2026"
+      },
+      {
+        "fileName": "additional items for 4-23-26--.pdf",
+        "uploadedDate": "04/22/2026"
+      },
+      {
+        "fileName": "mayor memo 4-22-26.pdf",
+        "uploadedDate": "04/22/2026"
+      },
+      {
+        "fileName": "BCC Ad May5 2026 M. Herald.pdf",
+        "uploadedDate": "04/29/2026"
+      },
+      {
+        "fileName": "Lambert Kelly Tractor Needs Analysis 5.3.2026.pdf",
+        "uploadedDate": "05/04/2026"
+      },
+      {
+        "fileName": "Kelly Tractor _ CDMP202300013 _ Second State Extension of Time.pdf",
+        "uploadedDate": "05/05/2026"
+      },
+      {
+        "fileName": "2024-05-06 MIA Equipment and Supportive Services Area CDMP S&S.pdf",
+        "uploadedDate": "05/07/2024"
+      },
+      {
+        "fileName": "Kelly Tractor Alternative Analysis_01.22.24.pdf",
+        "uploadedDate": "05/07/2024"
+      },
+      {
+        "fileName": "Kelly Tractor Report 5-1-24 Need Analysis.pdf",
+        "uploadedDate": "05/07/2024"
+      },
+      {
+        "fileName": "Kelly Tractor Revised CDMP Application 5.6.2024.pdf",
+        "uploadedDate": "05/07/2024"
+      },
+      {
+        "fileName": "180-Day Extension 2nd Request from Applicant 5-11-26.pdf",
+        "uploadedDate": "05/18/2026"
+      },
+      {
+        "fileName": "180-Day Extension Ltr 2nd Request 5-11-26.pdf",
+        "uploadedDate": "05/18/2026"
+      },
+      {
+        "fileName": "Ltr to FLCommerce 180-Day Ext. 2-20-26 v2.pdf",
+        "uploadedDate": "05/18/2026"
+      },
+      {
+        "fileName": "Miami-Dade County 25-03ESR Ext Not Ack Letter.pdf",
+        "uploadedDate": "05/18/2026"
+      },
+      {
+        "fileName": "state ack letter kelly ext 5-14-26.pdf",
+        "uploadedDate": "05/18/2026"
+      },
+      {
+        "fileName": "BCC Ad 6-2-26 esheet.pdf",
+        "uploadedDate": "05/19/2026"
+      },
+      {
+        "fileName": "BCC Ad June 6.2.2026 M. Herald.pdf",
+        "uploadedDate": "05/19/2026"
+      },
+      {
+        "fileName": "Lambert Kelly Tractor Needs Analysis 5 20 2026 reduced.pdf",
+        "uploadedDate": "05/27/2026"
+      },
+      {
+        "fileName": "BCC Oridance Agenda Item 7.pdf",
+        "uploadedDate": "05/29/2026"
+      },
+      {
+        "fileName": "BCC Supplement Agenda Item 5.pdf",
+        "uploadedDate": "05/29/2026"
+      },
+      {
+        "fileName": "BCC Supplement Agenda Item 7.pdf",
+        "uploadedDate": "05/29/2026"
+      },
+      {
+        "fileName": "BCC Supplement No. 2 Agenda Item 7.pdf",
+        "uploadedDate": "05/29/2026"
+      },
+      {
+        "fileName": "MDX Settlement Agreement.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Opinion of Title.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Notification to Abutting Property Owners_Postmarked 6.1.2023.pdf",
+        "uploadedDate": "06/02/2023"
+      },
+      {
+        "fileName": "Kelly Tractor Co. _ CDMP Cover Letter.pdf",
+        "uploadedDate": "06/06/2024"
+      },
+      {
+        "fileName": "Revised CDMP Amendment Application.pdf",
+        "uploadedDate": "06/06/2024"
+      },
+      {
+        "fileName": "Disclosure of Interest Executed (Revised) V2 6-9-23.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Legal Description V2 6-9-23.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Opinion of Title V2 6-9-23.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Survey Revised V2 6-9-23.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "AERIAL_MAY_2023_CYCLE_CDMP20230013.pdf",
+        "uploadedDate": "07/03/2023"
+      },
+      {
+        "fileName": "Application V4 6.29.23.pdf",
+        "uploadedDate": "07/03/2023"
+      },
+      {
+        "fileName": "Traffic Study 6-29-23.pdf",
+        "uploadedDate": "07/03/2023"
+      },
+      {
+        "fileName": "BCC Agenda 5-5-26 with Links.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "BCC Item 7D Ordinance 5-5-26 251500.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "BCCItem 7D Supplement 5-5-26 260046.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "bal harbor reso 3-17-26 recd 5-12-26.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "comments 6-3-26 from robert jacobson.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "comments 6-3-26 from tovah carter.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "tropical audobon - 2-12-26 recd 5-20-26.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "tropical audobon 7-15-25 recd 5-20-26.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Agenda Kit CC5 Appl23-13 Kelly Final.pdf",
+        "uploadedDate": "07/08/2025"
+      },
+      {
+        "fileName": "PAB Ad in July 4 2025 Miami Herald.pdf",
+        "uploadedDate": "07/08/2025"
+      },
+      {
+        "fileName": "PAB Agenda Kit - July 14 2025.pdf",
+        "uploadedDate": "07/08/2025"
+      },
+      {
+        "fileName": "Initial Recommendations CDMP20230013 final w apdx 06-24-25.pdf",
+        "uploadedDate": "07/10/2025"
+      },
+      {
+        "fileName": "PAB Agenda Kit - July 14 2025w3IntRecs.pdf",
+        "uploadedDate": "07/10/2025"
+      },
+      {
+        "fileName": "additional items kelly.pdf",
+        "uploadedDate": "07/10/2025"
+      },
+      {
+        "fileName": "Kelly Tractor Co. _ Letter of Intent for Minor Revision to Proposed CDMP Text.pdf",
+        "uploadedDate": "07/13/2026"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2023-0013.pdf",
+        "uploadedDate": "07/14/2023"
+      },
+      {
+        "fileName": "BCC Ad in July 7 2025 Miami Herald.pdf",
+        "uploadedDate": "07/15/2025"
+      },
+      {
+        "fileName": "Item_1_20230013_CDMP_7-14-2025.pdf",
+        "uploadedDate": "07/15/2025"
+      },
+      {
+        "fileName": "May 2023 App CDMP20230013 7-14-25 L Reynolds Ltr.pdf",
+        "uploadedDate": "07/15/2025"
+      },
+      {
+        "fileName": "Rebuttal to Staff Recommendation.pdf",
+        "uploadedDate": "07/16/2025"
+      },
+      {
+        "fileName": "BCC Agenda 23-13 7-21-26 with links.pdf",
+        "uploadedDate": "07/16/2026"
+      },
+      {
+        "fileName": "7-11-2025 HTL Comments-CDMP20230013 Kelly Tractor (1).pdf",
+        "uploadedDate": "07/17/2025"
+      },
+      {
+        "fileName": "Copy of Industrial Vacant Parcels in North_Central Tier - July 2025 (1).pdf",
+        "uploadedDate": "07/17/2025"
+      },
+      {
+        "fileName": "Industrial Vacant Parcels - North_Central Tier_ July 2025a (1).pdf",
+        "uploadedDate": "07/17/2025"
+      },
+      {
+        "fileName": "Kelly Tractor Permitting History Final.pdf",
+        "uploadedDate": "07/17/2025"
+      },
+      {
+        "fileName": "Minutes signed.pdf",
+        "uploadedDate": "07/17/2025"
+      },
+      {
+        "fileName": "PAB Reso 23-13 - July 14 2025.pdf",
+        "uploadedDate": "07/17/2025"
+      },
+      {
+        "fileName": "Resolution signed.pdf",
+        "uploadedDate": "07/17/2025"
+      },
+      {
+        "fileName": "CDMP20230013.pdf",
+        "uploadedDate": "07/24/2023"
+      },
+      {
+        "fileName": "Transit Review CDMP20230013.pdf",
+        "uploadedDate": "07/25/2023"
+      },
+      {
+        "fileName": "CDMP 20230013 (Kelly Tractor Company) - DTPW TED review comments.pdf",
+        "uploadedDate": "07/27/2023"
+      },
+      {
+        "fileName": "Kelly Tractor _ CDMP202300013 _ State Extension of Time Request (July 2026).pdf",
+        "uploadedDate": "07/28/2026"
+      },
+      {
+        "fileName": "BCC 3rd Supplemental Report.pdf",
+        "uploadedDate": "07/29/2026"
+      },
+      {
+        "fileName": "HTL email and attachments CDMP20230013.pdf",
+        "uploadedDate": "07/30/2025"
+      },
+      {
+        "fileName": "Miami-Dade Package CDMP23-13 - Kelly Tractor.pdf",
+        "uploadedDate": "07/31/2025"
+      },
+      {
+        "fileName": "WASD CDMP20230013 August 1 2023.pdf",
+        "uploadedDate": "08/01/2023"
+      },
+      {
+        "fileName": "CDMP Revised Amendment Application v.5.pdf",
+        "uploadedDate": "08/02/2023"
+      },
+      {
+        "fileName": "2024-08-02 MIA Equipment and Supportive Services Area CDMP S&S.pdf",
+        "uploadedDate": "08/05/2024"
+      },
+      {
+        "fileName": "Parks CDMP20230013_20230801 - signed.pdf",
+        "uploadedDate": "08/07/2023"
+      },
+      {
+        "fileName": "Revised Application Memo 8-2-24.pdf",
+        "uploadedDate": "08/07/2024"
+      },
+      {
+        "fileName": "Revised Covenant Recd. Aug 2_2024.pdf",
+        "uploadedDate": "08/07/2024"
+      },
+      {
+        "fileName": "DERM Memo CDMP20230013.pdf",
+        "uploadedDate": "08/08/2023"
+      },
+      {
+        "fileName": "Revised Kelly Tractor Needs Analysis 8.9.2024.pdf",
+        "uploadedDate": "08/09/2024"
+      },
+      {
+        "fileName": "180-Day Extension 3rd Request from Applicant 8-10-26.pdf",
+        "uploadedDate": "08/10/2026"
+      },
+      {
+        "fileName": "180-Day Extension Ltr 3rd Request 8-10-26.pdf",
+        "uploadedDate": "08/10/2026"
+      },
+      {
+        "fileName": "8-11-26 Kelly Tractor Covenant .pdf",
+        "uploadedDate": "08/11/2026"
+      },
+      {
+        "fileName": "Conceptual SWM Master Plan_REV.pdf",
+        "uploadedDate": "08/18/2023"
+      },
+      {
+        "fileName": "Cultural Assessment Survey.pdf",
+        "uploadedDate": "08/18/2023"
+      },
+      {
+        "fileName": "Kelly Tractor Environmental Report.pdf",
+        "uploadedDate": "08/18/2023"
+      },
+      {
+        "fileName": "UDB Water and Sewer Memo_REV.pdf",
+        "uploadedDate": "08/18/2023"
+      },
+      {
+        "fileName": "Police Memo - CDMP20230013 pdf.pdf",
+        "uploadedDate": "08/19/2024"
+      },
+      {
+        "fileName": "DSWM CDMP 2023-0013 - revised - signed.pdf",
+        "uploadedDate": "08/24/2023"
+      },
+      {
+        "fileName": "BCC Agenda 9-1-26.pdf",
+        "uploadedDate": "08/26/2026"
+      },
+      {
+        "fileName": "CDMP23 August 2024.pdf",
+        "uploadedDate": "08/27/2024"
+      },
+      {
+        "fileName": "BCC Ordinance 7F 23-13 9-1-26.pdf",
+        "uploadedDate": "08/27/2026"
+      },
+      {
+        "fileName": "BCC Supplement 7F 23-13 9-1-26.pdf",
+        "uploadedDate": "08/27/2026"
+      },
+      {
+        "fileName": "BCC Supplement No. 2 7F 23-13 9-1-26.pdf",
+        "uploadedDate": "08/27/2026"
+      },
+      {
+        "fileName": "BCC Supplement No. 3 ( 7F ) 23-13 9-1-26.pdf",
+        "uploadedDate": "08/27/2026"
+      },
+      {
+        "fileName": "Police Memo - CDMP20230013 pdf.pdf",
+        "uploadedDate": "08/30/2023"
+      },
+      {
+        "fileName": "WASD CDMP20230013 AUGUST-30-2024.pdf",
+        "uploadedDate": "08/30/2024"
+      },
+      {
+        "fileName": "2023-08-31 MIA Transportation Support Area CDMP S&S.pdf",
+        "uploadedDate": "08/31/2023"
+      },
+      {
+        "fileName": "CDMP23 August 31.pdf",
+        "uploadedDate": "09/01/2023"
+      },
+      {
+        "fileName": "Kelly Tractor _ Letter of Intent 4-7-26.pdf",
+        "uploadedDate": "09/03/2026"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2023-0013 (2024Revision).pdf",
+        "uploadedDate": "09/12/2024"
+      },
+      {
+        "fileName": "Transit Review CDMP20230013_8.31.24.pdf",
+        "uploadedDate": "09/12/2024"
+      },
+      {
+        "fileName": "fish and wildlife 25-03ESR.pdf",
+        "uploadedDate": "09/12/2025"
+      },
+      {
+        "fileName": "DEO 1st letter 25-03ESR Kelly.pdf",
+        "uploadedDate": "09/18/2025"
+      },
+      {
+        "fileName": "DEO 2nd Letter 25-03ESR.pdf",
+        "uploadedDate": "09/18/2025"
+      },
+      {
+        "fileName": "SFRPC FINAL ADOPTED.pdf",
+        "uploadedDate": "09/18/2025"
+      },
+      {
+        "fileName": "fish and wildlife 25-03ESR.pdf",
+        "uploadedDate": "09/18/2025"
+      },
+      {
+        "fileName": "9-2-26 Kelly Tractor DOR - signed by app.pdf",
+        "uploadedDate": "09/18/2026"
+      },
+      {
+        "fileName": "WASD-CDMP20230013-Sept-20-2023.pdf",
+        "uploadedDate": "09/21/2023"
+      },
+      {
+        "fileName": "Kelly Tractor _ CDMP20230013 _ Defferal Req 9-24-24.pdf",
+        "uploadedDate": "09/24/2024"
+      },
+      {
+        "fileName": "Parks CDMP20230013_20240904 - signed.pdf",
+        "uploadedDate": "09/24/2024"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2023-0013 Sept2023.pdf",
+        "uploadedDate": "09/26/2023"
+      },
+      {
+        "fileName": "CDMP20230013 Letter of Support MTI 9-20-23.pdf",
+        "uploadedDate": "09/28/2023"
+      },
+      {
+        "fileName": "Kelly Tractor _ CDMP20230013 _Deferral Req 9-28-23.pdf",
+        "uploadedDate": "09/28/2023"
+      },
+      {
+        "fileName": "FDEP 25-03ESR kelly.pdf",
+        "uploadedDate": "09/29/2025"
+      },
+      {
+        "fileName": "FDOT 25-03ESR Kelly.pdf",
+        "uploadedDate": "09/29/2025"
+      },
+      {
+        "fileName": "SFWMD 25-03ESR Kelly.pdf",
+        "uploadedDate": "09/29/2025"
+      },
+      {
+        "fileName": "Roadways Report CDMP20230013.docx",
+        "uploadedDate": "10/02/2023"
+      },
+      {
+        "fileName": "DERM Memo CDMP20230013 - 2nd Review.pdf",
+        "uploadedDate": "10/02/2024"
+      },
+      {
+        "fileName": "Covenant CDMP20230013 Recd. 10-3-2025.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Kelly Tractor Co. _ Response to FWC and Planning Comments.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "response to state and county comments10.03.25.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Kelly Tractor Co Draft Declaration of Restrictions 10.10.2025.pdf",
+        "uploadedDate": "10/10/2025"
+      },
+      {
+        "fileName": "RER Environmental Review Memo CDMP20230013 10-21-2025.pdf",
+        "uploadedDate": "10/21/2025"
+      },
+      {
+        "fileName": "DEO 1st letter 25-03ESR Kelly.pdf",
+        "uploadedDate": "11/03/2025"
+      },
+      {
+        "fileName": "DEO 2nd Letter 25-03ESR.pdf",
+        "uploadedDate": "11/03/2025"
+      },
+      {
+        "fileName": "FDEP 25-03ESR kelly.pdf",
+        "uploadedDate": "11/03/2025"
+      },
+      {
+        "fileName": "FDOT 25-03ESR Kelly.pdf",
+        "uploadedDate": "11/03/2025"
+      },
+      {
+        "fileName": "Miami-Dade Package CDMP23-13 - Kelly Tractor.pdf",
+        "uploadedDate": "11/03/2025"
+      },
+      {
+        "fileName": "SFRPC FINAL ADOPTED intro.pdf",
+        "uploadedDate": "11/03/2025"
+      },
+      {
+        "fileName": "SFRPC FINAL ADOPTED.pdf",
+        "uploadedDate": "11/03/2025"
+      },
+      {
+        "fileName": "SFWMD 25-03ESR Kelly.pdf",
+        "uploadedDate": "11/03/2025"
+      },
+      {
+        "fileName": "fish and wildlife 25-03ESR.pdf",
+        "uploadedDate": "11/03/2025"
+      },
+      {
+        "fileName": "2025-11-20 Comment Response Letter -CDMP DERM.pdf",
+        "uploadedDate": "11/20/2025"
+      },
+      {
+        "fileName": "Alternatives Analysis_04.04.25.pdf",
+        "uploadedDate": "11/20/2025"
+      },
+      {
+        "fileName": "Conceptual SWM Master Plan_REV 5.pdf",
+        "uploadedDate": "11/20/2025"
+      },
+      {
+        "fileName": "Covenant Discussion_04.02.25.pdf",
+        "uploadedDate": "11/20/2025"
+      },
+      {
+        "fileName": "DERM Memo CDMP20230013 - 5th Review 3-20-25_eas.pdf",
+        "uploadedDate": "11/20/2025"
+      },
+      {
+        "fileName": "DERM memo comment response outline_04.04.25.pdf",
+        "uploadedDate": "11/20/2025"
+      },
+      {
+        "fileName": "Evaluation Policy CON-7A_04.04.25.pdf",
+        "uploadedDate": "11/20/2025"
+      },
+      {
+        "fileName": "Site Report_04.02.25.pdf",
+        "uploadedDate": "11/20/2025"
+      },
+      {
+        "fileName": "2024-12-06 Comment Response Letter -CDMP DERM.pdf",
+        "uploadedDate": "12/16/2024"
+      },
+      {
+        "fileName": "Alternatives Analysis_12.5.24.pdf",
+        "uploadedDate": "12/16/2024"
+      },
+      {
+        "fileName": "Conceptual SWM Master Plan_REV 3.pdf",
+        "uploadedDate": "12/16/2024"
+      },
+      {
+        "fileName": "Conceptual Water and Sewer Plan.pdf",
+        "uploadedDate": "12/16/2024"
+      },
+      {
+        "fileName": "Covenant Discussion_12.5.24.pdf",
+        "uploadedDate": "12/16/2024"
+      },
+      {
+        "fileName": "Environmental Site Report_12.10.24.pdf",
+        "uploadedDate": "12/16/2024"
+      },
+      {
+        "fileName": "Evaluation Policy CON-7A_12-5-24.pdf",
+        "uploadedDate": "12/16/2024"
+      },
+      {
+        "fileName": "Kelly Tractor Co. _ DERM Response Letter.pdf",
+        "uploadedDate": "12/16/2024"
+      },
+      {
+        "fileName": "Kelly Tractor Co. _ Letter of Intent 12.6.2024.pdf",
+        "uploadedDate": "12/16/2024"
+      },
+      {
+        "fileName": "RER Environmental Review memo CDMP20230013 revised 12-23-2025.pdf",
+        "uploadedDate": "12/23/2025"
+      }
+    ],
+    "c9762e73-fa94-4c81-be60-9d14a52dbd8c": [
+      {
+        "fileName": "2026-03-17 Water and Sewer Master Plan.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "2026-03-20 Conceptual SWM Master Plan.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "DERM.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "DSWM.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "DTPW Transit.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "EconomicImpact_0209.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Environmental Site Report_3.18.26.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Fire.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Lands Needs_0211_v2.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Legal Description of Application Area v3.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "MDSO.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Map of Application Area.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "OHP.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Parks.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "RER PW.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Revised CDMP Application (March 2026) - Dade Land Advisors LLC.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Traffic Impact Study v2.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Transmittal Letter 03-30-26 Resubmittal.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "Updated Survey.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "WASD.pdf",
+        "uploadedDate": "03/31/2026"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2025-0017_April2026.pdf",
+        "uploadedDate": "04/27/2026"
+      },
+      {
+        "fileName": "Transit Review CDMP20250017_May 2026.pdf",
+        "uploadedDate": "04/28/2026"
+      },
+      {
+        "fileName": "UPDATE - CDMP 20250017 - Dade Land Advisors, LLC - FINAL.pdf",
+        "uploadedDate": "05/05/2026"
+      },
+      {
+        "fileName": "MDC-RER Corrections Report - NEW!.pdf",
+        "uploadedDate": "05/11/2026"
+      },
+      {
+        "fileName": "WASD CDMP20250017 May 11 2026.pdf",
+        "uploadedDate": "05/11/2026"
+      },
+      {
+        "fileName": "CDMP20250017 MDFR2.pdf",
+        "uploadedDate": "05/14/2026"
+      },
+      {
+        "fileName": "Police Memo - CDMP20250017 REVISION pdf.pdf",
+        "uploadedDate": "05/19/2026"
+      },
+      {
+        "fileName": "Environmental Review CDMP20250017 - Dade Land Advisors LLC REVISED APRIL 2026.pdf",
+        "uploadedDate": "05/20/2026"
+      },
+      {
+        "fileName": "Parks_CDMP20250017_V2 Review_20260521 - signed.pdf",
+        "uploadedDate": "05/22/2026"
+      },
+      {
+        "fileName": "Exhibit A - Legal Description PDF.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Exhibit B - Disclosure of Interest.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Exhibit D - Survey.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Exhibit E - CDMP Draft Proposed Declaration of Restrictions.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Exhibit F - Conceptial Stormwater Master Plan.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Exhibit G - Water and Sewer Master Plan.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Exhibit H - Traffic Impact Study.pdf",
+        "uploadedDate": "06/02/2025"
+      },
+      {
+        "fileName": "Notification to Property Owners.pdf",
+        "uploadedDate": "06/04/2025"
+      },
+      {
+        "fileName": "CDMP Application - Dade Land Advisors LLC.pdf",
+        "uploadedDate": "06/19/2025"
+      },
+      {
+        "fileName": "Composite Exhibit I - D.A.P. Opinion of Title - June 19, 2025 Submittal(37699239.1).pdf",
+        "uploadedDate": "06/19/2025"
+      },
+      {
+        "fileName": "FPL Opinion of Title - June 19, 2025(37699240.1).pdf",
+        "uploadedDate": "06/19/2025"
+      },
+      {
+        "fileName": "June 19, 2025 Transmittal Letter with Exhibits - Dade Land Advisors, LLC - CDMP Application No. CDMP20250017(37699321.1).pdf",
+        "uploadedDate": "06/19/2025"
+      },
+      {
+        "fileName": "Revised Exhibit C - Location Map - June 20 Submittal(37697928.1).pdf",
+        "uploadedDate": "06/19/2025"
+      },
+      {
+        "fileName": "Revised Exhibit B - Disclosure of Interest - Includes Addresses for Each Entity & Person - Modified June 20, 2025(37667535.1)(37.pdf",
+        "uploadedDate": "06/20/2025"
+      },
+      {
+        "fileName": "CDMP20250017.pdf",
+        "uploadedDate": "07/27/2026"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2025-0017.pdf",
+        "uploadedDate": "08/06/2025"
+      },
+      {
+        "fileName": "CDMP20250017 MDFR.pdf",
+        "uploadedDate": "08/12/2025"
+      },
+      {
+        "fileName": "08-13-2026_CDMP20250017_DTPW Traffic Engineering Memo.pdf",
+        "uploadedDate": "08/13/2026"
+      },
+      {
+        "fileName": "WASD CDMP20250017 8-14-25.pdf",
+        "uploadedDate": "08/14/2025"
+      },
+      {
+        "fileName": "Analysis of CDMP Amendment Application No. CDMP 2025-0017 -FINAL.pdf",
+        "uploadedDate": "08/18/2025"
+      },
+      {
+        "fileName": "CDMP20250017 MDFR.pdf",
+        "uploadedDate": "08/18/2025"
+      },
+      {
+        "fileName": "Transit Review CDMP20250017.pdf",
+        "uploadedDate": "08/18/2025"
+      },
+      {
+        "fileName": "CDMP Application v3.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Conceptual SWM Master Plan v2.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Covenant v2.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "DERM Comment Response Letter v2.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Environmental_Site_Evaluation_v2.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Exhibit C - Location Map v3.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Legal Description.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Needs Assessment_v2_8_20_26.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Redline_Covenant_8_20_26.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Survey_v3.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Traffic Impact Study v3.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Transmittal Letter for August 2026 Resubmittal.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Water and Sewer Master Plan v2.pdf",
+        "uploadedDate": "08/20/2026"
+      },
+      {
+        "fileName": "Parks_CDMP20250017_20250819 - signed.pdf",
+        "uploadedDate": "08/25/2025"
+      },
+      {
+        "fileName": "Police Memo - CDMP20250017 (White Copy) - South pdf.pdf",
+        "uploadedDate": "08/27/2025"
+      },
+      {
+        "fileName": "Martinez, Jose Luis & Victoria - USPS Certified Mail Receipt - 9.3.2026.pdf",
+        "uploadedDate": "09/03/2026"
+      },
+      {
+        "fileName": "Perdue, Jared W. - FDOT - USPS Certified Mail Receipt - 9.3.2026.pdf",
+        "uploadedDate": "09/03/2026"
+      },
+      {
+        "fileName": "REV. UPDATE - CDMP 20250017 - Dade Land Advisors, LLC - FINAL.pdf",
+        "uploadedDate": "09/04/2026"
+      },
+      {
+        "fileName": "Police Memo - CDMP20250017 (White Copy) South pdf 2.PDF",
+        "uploadedDate": "09/08/2026"
+      },
+      {
+        "fileName": "DERM Review Memo CDMP20250017.pdf",
+        "uploadedDate": "09/10/2025"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2025-0017 -Sept2026.pdf",
+        "uploadedDate": "09/16/2026"
+      },
+      {
+        "fileName": "WASD CDMP20250017 9 - 16 - 2026.pdf",
+        "uploadedDate": "09/16/2026"
+      },
+      {
+        "fileName": "Parks_CDMP20250017_V3 Review_20260917 - signed.pdf",
+        "uploadedDate": "09/18/2026"
+      }
+    ],
+    "e1bf2f89-d1ba-423b-b3c8-103dcc976b76": [
+      {
+        "fileName": "CDMP Amendment Application V2 (03-20-26).pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Disclosure of Interest V2.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit A - Legal Description V2.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit B - Location Map V2.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit C - Survey V2.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit D - Traffic Impact Assessment V2.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit E -- City Park Needs Assessment V2.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit F -- City Park Economic Impact Analysis V2.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit G - Draft Declaration of Restrictions and Opinion of Title V2.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit H - Conceptual Stormwater Master Plan.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit I - Draft UDBPAD Regulating Plans.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit J - Archeological Report.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Exhibit K - Water and Sewer Master Plan.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Notification Letters Mail All Merged w USPS CM Receipts.pdf",
+        "uploadedDate": "03/20/2026"
+      },
+      {
+        "fileName": "Letter Waiving Deadlines -- DRI 2.pdf",
+        "uploadedDate": "06/12/2026"
+      },
+      {
+        "fileName": "CDMP Amendment Application V3 (7-7-26).pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Disclosure of Interest V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit A - Legal Description V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit B -- Location Map V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit C - Survey V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit D - Traffic Study V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit E -- City Park Needs Assessment V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit F -- City Park Economic Impact Analysis V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit G - Draft Declaration of Restrictions and Opinion of Title V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit H - Conceptual Stormwater Master Plan V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit I - Draft UDBPAD Regulating Plans V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit J - Archeological Report V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Exhibit K - Water and Sewer Master Plan V3.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "Response to County Traffic Study Comments June 2026.pdf",
+        "uploadedDate": "07/07/2026"
+      },
+      {
+        "fileName": "CDMP Amendment Application V4.pdf",
+        "uploadedDate": "09/04/2026"
+      },
+      {
+        "fileName": "Disclosure of Interest V4.pdf",
+        "uploadedDate": "09/04/2026"
+      },
+      {
+        "fileName": "Exhibit I - Draft UDBPAD Regulating Plan V4.pdf",
+        "uploadedDate": "09/04/2026"
+      },
+      {
+        "fileName": "CDMP Amendment Application V1 (10-3-25).pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Disclosure of Interest V1.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit A -- Legal Description.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit B -- Location Map.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit C -- Survey of Application Area.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit D -- Traffic Study.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit E -- City Park Needs Assessment.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit F -- City Park Economic Impact Analysis.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit G - Draft Declaration of Restrictions and Opinion of Title.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit H -- Conceptual Stormwater Master Plan.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit I -- Draft UDBPAD Regulating Plans.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit J -- Archeological Report.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Exhibit K -- Water and Sewer Master Plan.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Survey V1.pdf",
+        "uploadedDate": "10/03/2025"
+      },
+      {
+        "fileName": "Notification Letters and Proof of Mailing.pdf",
+        "uploadedDate": "10/09/2025"
+      },
+      {
+        "fileName": "Letter Waiving Deadlines -- CDMP.pdf",
+        "uploadedDate": "12/22/2025"
+      }
+    ],
+    "f1ba4410-d35c-4922-a6ae-f30045c5fb83": [
+      {
+        "fileName": "Deferral Request No. 5 - CDMP20230016.pdf",
+        "uploadedDate": "01/06/2025"
+      },
+      {
+        "fileName": "ATP-137 CDMP TIA_December 2025 (002).pdf",
+        "uploadedDate": "01/06/2026"
+      },
+      {
+        "fileName": "Police Memo - CDMP20230016 (WHite Copy) (Midwest) pdf.pdf",
+        "uploadedDate": "01/06/2026"
+      },
+      {
+        "fileName": "Application _Rev 2.pdf",
+        "uploadedDate": "01/12/2024"
+      },
+      {
+        "fileName": "Needs Analysis - Miami Economic Associates - 1-12-24.pdf",
+        "uploadedDate": "01/12/2024"
+      },
+      {
+        "fileName": "Conceptual SWM Master Plan 2024-01-22.pdf",
+        "uploadedDate": "01/23/2024"
+      },
+      {
+        "fileName": "CDMP20230016 MDFR4.pdf",
+        "uploadedDate": "01/23/2026"
+      },
+      {
+        "fileName": "Conceptual Site Plan.pdf",
+        "uploadedDate": "01/31/2024"
+      },
+      {
+        "fileName": "Draft Covenant Expanded MIA Transport Hub V4.pdf",
+        "uploadedDate": "01/31/2024"
+      },
+      {
+        "fileName": "Final Environmental Site Analysis - Update.pdf",
+        "uploadedDate": "01/31/2024"
+      },
+      {
+        "fileName": "Deferral Request No. 2 - CDMP20230016 1-31-24.pdf",
+        "uploadedDate": "02/01/2024"
+      },
+      {
+        "fileName": "DERM Memo CDMP20230016 (REVISED 03-04-2024).pdf",
+        "uploadedDate": "03/14/2024"
+      },
+      {
+        "fileName": "Environmental Review CDMP20230016 Revised 3-17-2026.pdf",
+        "uploadedDate": "03/18/2026"
+      },
+      {
+        "fileName": "2023-30.01 - USFWS consultation letter.pdf",
+        "uploadedDate": "03/22/2024"
+      },
+      {
+        "fileName": "Adjacent Owner_Support Letter.pdf",
+        "uploadedDate": "03/22/2024"
+      },
+      {
+        "fileName": "Ltr to Estevez w-Certified RR Info 2.06.24.pdf",
+        "uploadedDate": "03/22/2024"
+      },
+      {
+        "fileName": "USFWS FBB acknowledgement.pdf",
+        "uploadedDate": "03/22/2024"
+      },
+      {
+        "fileName": "Rsponses to Memo - DTPW TED.pdf",
+        "uploadedDate": "03/23/2026"
+      },
+      {
+        "fileName": "DERM Memo CDMP20230016 REVISED 04-04-2024.pdf",
+        "uploadedDate": "04/04/2024"
+      },
+      {
+        "fileName": "Application - MIA Transport Hub Expansion SW 137 Ave_Rev 3.pdf",
+        "uploadedDate": "04/15/2024"
+      },
+      {
+        "fileName": "2023-30.02 - RER comment response letter_3.26.26.pdf",
+        "uploadedDate": "04/20/2026"
+      },
+      {
+        "fileName": "Truck Parking Expansion Supplemental Report.pdf",
+        "uploadedDate": "04/29/2024"
+      },
+      {
+        "fileName": "CDMP23-16 -137 Avenue - Covenant.pdf",
+        "uploadedDate": "04/30/2026"
+      },
+      {
+        "fileName": "First Notice of Violation--ATP Properties.pdf",
+        "uploadedDate": "05/12/2026"
+      },
+      {
+        "fileName": "Deferral Request No. 11- CDMP20230016 approved.pdf",
+        "uploadedDate": "05/28/2026"
+      },
+      {
+        "fileName": "FDOT Truck Parking Study - 2022.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Survey 1.PDF",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Survey 2.PDF",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Survey 3.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Traffic Study.pdf",
+        "uploadedDate": "05/31/2023"
+      },
+      {
+        "fileName": "Application - MIA Transport Hub Expansion SW 137 Ave_Rev1.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Covenant - Expanded MIA Transport Hub_V2.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Disclosure of Interest V2.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Legal Description Combined V2.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Location Map V2.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Opinion of Title - 137 Ave 8th ST Holdings LLC.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Opinion of Title - 836 HEC LLC.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Opinion of Title - 8th Street Land Hioldings LLC.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "Survey.pdf",
+        "uploadedDate": "06/09/2023"
+      },
+      {
+        "fileName": "AERIAL_MAY_2023_CYCLE_CDMP20230016.pdf",
+        "uploadedDate": "07/03/2023"
+      },
+      {
+        "fileName": "Legal Description 5-31-23.pdf",
+        "uploadedDate": "07/05/2023"
+      },
+      {
+        "fileName": "Conceptual Stormwater Management Master Plan.pdf",
+        "uploadedDate": "07/07/2023"
+      },
+      {
+        "fileName": "Conceptual Water and Sewer Services Master Plan.pdf",
+        "uploadedDate": "07/07/2023"
+      },
+      {
+        "fileName": "Initial Environmental Site Report.pdf",
+        "uploadedDate": "07/07/2023"
+      },
+      {
+        "fileName": "Miami Economic Associates - Need Analysis.pdf",
+        "uploadedDate": "07/07/2023"
+      },
+      {
+        "fileName": "Transit Review CDMP20230016.pdf",
+        "uploadedDate": "07/11/2023"
+      },
+      {
+        "fileName": "TED CDMP 20230016 (137 Avenue 8th St. Holdings, LLC Et. Al) - DTPW TED review comments.pdf",
+        "uploadedDate": "07/12/2023"
+      },
+      {
+        "fileName": "DSWM CDMP Review 2023-0012.pdf",
+        "uploadedDate": "07/14/2023"
+      },
+      {
+        "fileName": "Fire CDMP230016.pdf",
+        "uploadedDate": "07/14/2023"
+      },
+      {
+        "fileName": "WASD-CDMP20230016-JULY-14-2023.pdf",
+        "uploadedDate": "07/14/2023"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2023-0016.pdf",
+        "uploadedDate": "07/18/2023"
+      },
+      {
+        "fileName": "DERM Memo CDMP20230016.pdf",
+        "uploadedDate": "07/20/2023"
+      },
+      {
+        "fileName": "Parks CDMP20230016_20230717 - signed.pdf",
+        "uploadedDate": "07/26/2023"
+      },
+      {
+        "fileName": "WASD-Comments-W&S-Master-Plan-CDMP20230016.pdf",
+        "uploadedDate": "07/28/2023"
+      },
+      {
+        "fileName": "CDMP20230016.pdf",
+        "uploadedDate": "08/13/2026"
+      },
+      {
+        "fileName": "Transit Review CDMP20230016 8.18.pdf",
+        "uploadedDate": "08/22/2023"
+      },
+      {
+        "fileName": "Conceptual Water and Sewer Services Master Plan_V2.pdf",
+        "uploadedDate": "08/25/2023"
+      },
+      {
+        "fileName": "Draft Covenant Expanded MIA Transport Hub V3.pdf",
+        "uploadedDate": "08/25/2023"
+      },
+      {
+        "fileName": "Final Environmental Site Analysis.pdf",
+        "uploadedDate": "08/25/2023"
+      },
+      {
+        "fileName": "CDMP23 16 August 31.pdf",
+        "uploadedDate": "09/01/2023"
+      },
+      {
+        "fileName": "DSWM CDMP 2023-0016 Review.pdf",
+        "uploadedDate": "09/05/2023"
+      },
+      {
+        "fileName": "Deferral Request No. 11- CDMP20230016 approved.pdf",
+        "uploadedDate": "09/18/2026"
+      },
+      {
+        "fileName": "CDMP23 16 October 02.pdf",
+        "uploadedDate": "10/02/2023"
+      },
+      {
+        "fileName": "Roadways Report CDMP20230016.docx",
+        "uploadedDate": "10/02/2023"
+      },
+      {
+        "fileName": "CDMP20030016.pdf",
+        "uploadedDate": "10/06/2023"
+      },
+      {
+        "fileName": "Deferral Request - CDMP20230016 -10.5.23 stamped.pdf",
+        "uploadedDate": "10/06/2023"
+      },
+      {
+        "fileName": "DERM Memo CDMP20230016 Revised 10-5-2023.pdf",
+        "uploadedDate": "10/27/2023"
+      },
+      {
+        "fileName": "11-8-2023_CDMP 20230016 (137 Avenue 8th St. Holdings, LLC Et. Al) - DTPW TED review comments.pdf",
+        "uploadedDate": "11/08/2023"
+      },
+      {
+        "fileName": "2025-10-20 Conceptual SWM Master Plan.pdf",
+        "uploadedDate": "11/12/2025"
+      },
+      {
+        "fileName": "Application - MIA Transport Hub Expansion SW 137 Ave_rev4.pdf",
+        "uploadedDate": "11/12/2025"
+      },
+      {
+        "fileName": "MIA Transport - Environmental Report 10.22.25.pdf",
+        "uploadedDate": "11/12/2025"
+      },
+      {
+        "fileName": "Traffic Study Update - November 2025.pdf",
+        "uploadedDate": "11/12/2025"
+      },
+      {
+        "fileName": "Truck Parking Expansion 2nd Supplemental Needs Analysis.pdf",
+        "uploadedDate": "11/12/2025"
+      },
+      {
+        "fileName": "Application - MIA Transport Hub Expansion SW 137 Ave_11-26-25.pdf",
+        "uploadedDate": "11/26/2025"
+      },
+      {
+        "fileName": "Draft Covenant Expanded MIA Transport Hub V5.pdf",
+        "uploadedDate": "11/26/2025"
+      },
+      {
+        "fileName": "CDMP Review 2023-0016 - FINAL.pdf",
+        "uploadedDate": "12/08/2025"
+      },
+      {
+        "fileName": "OHP Review Memo CDMP2023-0016_updated_Dec2025.pdf",
+        "uploadedDate": "12/15/2025"
+      },
+      {
+        "fileName": "WASD CDMP20230016 12-16-2025 UPDATED.pdf",
+        "uploadedDate": "12/16/2025"
+      },
+      {
+        "fileName": "WASD_CDMP20230016 12 -16-2025 Revision 1 Text Adamendment & Covenant.pdf",
+        "uploadedDate": "12/16/2025"
+      },
+      {
+        "fileName": "Parks CDMP20230016_PROS V2 Review_20251215 - signed.pdf",
+        "uploadedDate": "12/18/2025"
+      },
+      {
+        "fileName": "12-23-2025_CDMP 20230016 (137 Avenue 8th St. Holdings, LLC Et. Al) - DTPW TED Review Comments.pdf",
+        "uploadedDate": "12/23/2025"
+      },
+      {
+        "fileName": "CDMP20230016 MDFR3 B.pdf",
+        "uploadedDate": "12/23/2025"
+      },
+      {
+        "fileName": "Transit Review CDMP20230016_December 2025.docx",
+        "uploadedDate": "12/29/2025"
+      }
+    ]
+  }
 }
